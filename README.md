@@ -1,4 +1,4 @@
-﻿# Automated Essay Scoring with Feedback Generation
+# Automated Essay Scoring with Feedback Generation (AES)
 
 ## Project Overview
 This project focuses on transitioning Automated Essay Scoring (AES) from a black-box numerical grading system into a transparent, formative tool. While traditional systems provide scores without explanation, our framework integrates Chain-of-Thought (CoT) reasoning to provide qualitative feedback alongside quantitative scores. By using a Joint Task Model, we aim to improve both grading accuracy and the educational utility of the feedback.
