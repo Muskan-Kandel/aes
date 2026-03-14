@@ -112,20 +112,6 @@ gdown
 
 ---
 
-## Results
-
-Evaluation was performed on a 20-essay random sample (`random_state=42`) drawn from the 7,097-essay dataset.
-
-| Trait | QWK | MSE | Pearson r |
-|-------|-----|-----|-----------|
-| Holistic | — | — | — |
-| Content | — | — | — |
-| Language | — | — | — |
-| Adherence | — | — | — |
-| Narrativity | — | — | — |
-
-> Results depend on inference output format consistency. Fill in after running the notebook.
-
 **QWK interpretation:**
 
 | Range | Meaning |
